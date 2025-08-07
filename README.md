@@ -1,16 +1,12 @@
-## Hi there 👋
+```python
+def count_characters(text):
+    """
+    Count the number of characters in a given text.
+    """
+    return len(text)
 
-<!--
-**salmanln/salmanln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+if __name__ == "__main__":
+    user_input = input("Enter some text: ")
+    count = count_characters(user_input)
+    print(f"The text has {count} characters.")
+```
