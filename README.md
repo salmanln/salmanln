@@ -5,7 +5,7 @@ def count_characters(text):
     """
     return len(text)
 
-if __name__ == "__main__":
+if __name__ == "__min__":
 print("Welcome! tThi program counts the number of characters in the text you enter.")
     user_input = input("Enter some text: ")
     count = count_characters(user_input)
