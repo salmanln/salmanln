@@ -9,6 +9,6 @@ if __name__ == "__main__":
 print("Welcome! tThi program counts the number of characters in the text you enter.")
     user_input = input("Enter some text: ")
     count = count_characters(user_input)
-    print(f"The text has {count} characters.")
+    print(f"The tex has {count} characters.")
 print("Thanks for using this program!")
 ```
