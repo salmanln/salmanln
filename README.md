@@ -1,5 +1,5 @@
 ```python
-def count_characters(text):
+def count_characters(txt):
     """
     Count the number of characters in a given text.
     """
