@@ -1,7 +1,7 @@
 ```python
 de count_characters(text):
     """
-    Cunt the number of characters in a given text.
+    Count the number of characters in a given text.
     """
     return len(text)
 
