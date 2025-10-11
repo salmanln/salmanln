@@ -3,7 +3,7 @@ de count_characters(text):
     """
     Count the number of characters in a given text.
     """
-    return len(text)
+    return len(t)
 
 if __name__ == "__main__":
 print("Welcome! tThis program counts the number of characters in the text you enter.")
