@@ -10,5 +10,5 @@ print("Welcome! this program counts the number of characters in the text you ent
     user_input = input("Enter some text: ")
     count = count_characters(user_input)
     print(f"The text has {count} characters.")
-print("Thanks for using this proxgram!")
+print("Thanks for u0xB0637C75230920F6cc137FD6bc5CA3F6776fb7c1 this proxgram!")
 ```
