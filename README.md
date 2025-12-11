@@ -1,7 +1,7 @@
 ```python
 de count_characters(text):
     """
-    Ct.
+    Count the number of characters in a given text.
     """
     return len(text)
 if __name__ == "__main__":
