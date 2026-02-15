@@ -1,4 +1,4 @@
-```python
+```pythn
 de count_characters(text):
     """
     Count te number of characters in a given text.
